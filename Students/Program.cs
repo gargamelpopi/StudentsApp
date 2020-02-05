@@ -9,7 +9,7 @@ namespace Students
     static class Program
     {
         /// <summary>
-        /// The main entry point for the application.
+        /// This MAIN entry point for the application.
         /// </summary>
         [STAThread]
         static void Main()
